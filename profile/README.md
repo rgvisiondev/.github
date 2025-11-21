@@ -1,6 +1,4 @@
-## Targeted Strategies, Measurable Reasults
-
-Welcome to the **RGVision Media** GitHub organization!
+## Welcome to the **RGVision Media** GitHub organization!
 
 We’re a **digital agency based in the Rio Grande Valley (RGV)** focused on helping businesses grow through **strategic web & software development**, storytelling, and data-driven marketing.
 
